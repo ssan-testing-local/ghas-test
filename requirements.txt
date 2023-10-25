@@ -1,0 +1,4 @@
+flask==0.5.1
+requests==2.18.4
+six==1.10.0
+apache-airflow==2.2.0
